@@ -11,6 +11,6 @@ Risk objects in 50 positive videos are obtained manually, and can be found in "R
 
 The study invited six volunteers to participate in the study. Their ages are between 21∼45 years old. All participants have a drivers’ license with 2∼18 years driving experience. Details can be found in "participants_info -public.xlsx".
 
-Each volunteer watched the video sequence twice. They took a break for at least 30 minutes between the two times of experiments. 12 experiments data can be found in release.
+Each volunteer watched the video sequence twice. They took a break for at least 30 minutes between the two times of experiments. 12 experiments data can be found in release "Raw gaze data".
 
 Our paper was submitted to TRB 2022 conference and is under review at this moment. Submitted paper can be found in arxiv: http://arxiv.org/abs/2108.01599
