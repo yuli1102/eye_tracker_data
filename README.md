@@ -22,10 +22,6 @@ This study collected drivers' gaze data by letting participants watch dashcam ca
 Original videos are downloaded from https://github.com/Cogito2012/CarCrashDataset. Each video lasts 5 seconds, and the frequency of the videos is 10 Hz.
 We selected 100 videos for participants: 50 of these are positive videos containing a crash, and the remaining 50 are negative videos with no crash at all. 
 In "video_selection.csv" file: "Class" states the video is positive or negative; "video_no" is the video number; "selected?" indicates that whether this video is selected in our experiment; "ego_involved?" means the crash is ego involved or not. 
-These are three examples of positive videos:
-![image](https://github.com/yuli1102/eye_tracker_data/assets/44143351/256bbfca-cc4c-4f86-8108-6492972166da)![image](https://github.com/yuli1102/eye_tracker_data/assets/44143351/9eb7ca62-91a7-4883-84f9-6929c5ff7d82)![image](https://github.com/yuli1102/eye_tracker_data/assets/44143351/908852c4-0777-41b6-b2f3-636193f4e17a)
-These are three examples of negative videos:
-![image](https://github.com/yuli1102/eye_tracker_data/assets/44143351/49ff4fbf-7631-4d83-97b7-ac61306c318d)![image](https://github.com/yuli1102/eye_tracker_data/assets/44143351/443c3e5d-2c98-4ea7-af79-446acf818218)![image](https://github.com/yuli1102/eye_tracker_data/assets/44143351/b14c115b-9467-46bf-a7c1-7cf626fafcf8)
 
 # risk_objects_data
 Risk objects in 50 positive videos are obtained manually and found in "RiskObj_Feature.csv" data. Here the risk object means the vehicle involved in the crash. (For example, vehicle 1 crashed into vehicle 2 crashes caused by avoiding vehicle 3; only vehicles 1 and 2 are risk objects).  If the ego vehicle is the only vehicle that crashed, the risk object is the vehicle that caused the crash. 
