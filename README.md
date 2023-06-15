@@ -43,4 +43,7 @@ These are heat map of fixation count for negtive and positiive videos. The left 
 More analysis based on this diagram can be found in the paper. 
 ![image](https://github.com/yuli1102/eye_tracker_data/assets/44143351/dc363cf2-2b06-4481-925c-bc9de93a060c)
 
+# Files
+gaze_on_frams.ipynb: This is an example code to show how to plot gaze on frames. Code is only conduct the data of the first experiment participant 2. Results frames with all participants' data can be found in the folder of "gaze_on_frames(all_participants)" in releases.
+
 Our paper was submitted and accpeted to 2023 T&DI ICTD-Pavements Conference. The paper will be published later. You can find the submitted paper can be found in arXiv: http://arxiv.org/abs/2108.01599
