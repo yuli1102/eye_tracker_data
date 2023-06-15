@@ -4,7 +4,7 @@ If you use this repository, please cite the following paper. This paper has been
 Li, Y., Karim, M. M., & Qin, R. (2023 June). A Gaze Data-based Comparative Study to Build a Trustworthy Human-AI Collaboration in Crash Anticipation. In International Conference on Transportation and Development 2023.
 
 ~~~~  
-@article{li2021gaze,
+@article{li2023gaze,
   title={A Gaze Data-based Comparative Study to Build a Trustworthy Human-AI Collaboration in Crash Anticipation},
   author={Li, Yu and Karim, Muhammad Monjurul and Qin, Ruwen},
   booktitle={International Conference on Transportation and Development 2023: Airfield and Highway Pavements},
