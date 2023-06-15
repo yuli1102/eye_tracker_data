@@ -13,7 +13,6 @@ Li, Y., Karim, M. M., & Qin, R. (2023 June). A Gaze Data-based Comparative Study
 }
 ~~~~
 # eye_tracker_data
-![image](https://github.com/yuli1102/eye_tracker_data/assets/44143351/605e2c21-e020-4ce6-9774-8f9c70746242)
 
 Data was collected from Tobii Fusion screen-based Eye Tracker. The study invited six volunteers to participate in the study. Their ages are between 21∼45 years old. All participants have a drivers' license with 2∼18 years of driving experience. 
 
@@ -26,13 +25,15 @@ In "video_selection.csv" file: "Class" states the video is positive or negative;
 # risk_objects_data
 Risk objects in 50 positive videos are obtained manually and found in "RiskObj_Feature.csv" data. Here the risk object means the vehicle involved in the crash. (For example, vehicle 1 crashed into vehicle 2 crashes caused by avoiding vehicle 3; only vehicles 1 and 2 are risk objects).  If the ego vehicle is the only vehicle that crashed, the risk object is the vehicle that caused the crash. 
 This is an example of the comparision of video frame with/without the risk object highlighted:
+
 ![image](https://github.com/yuli1102/eye_tracker_data/assets/44143351/dbb3da20-d294-4cc7-9caf-0d3bf21c78cb)
 ![image](https://github.com/yuli1102/eye_tracker_data/assets/44143351/be72a1da-f8ac-48b8-a778-2f5efed977c7)
+
 Note that these highlighted frames are only used in analysis, and participants didn't see these highlights. 
 
 # gaze_Data
-Each volunteer watched the video sequence twice. They took a break for at least 30 minutes between the two times of experiments. Twelve experiments data can be found in the release "Raw gaze data". Gaze data are collected and classified into fixation, saccade, and Unclassified by the software of Tobii Pro Lab. This image shows an example of different type of gaze distribution:
-![image](https://github.com/yuli1102/eye_tracker_data/assets/44143351/934db619-5379-42ee-96fd-bda3a115710e)
+Each volunteer watched the video sequence twice. They took a break for at least 30 minutes between the two times of experiments. Twelve experiments data can be found in the release "Raw gaze data". Gaze data are collected and classified into fixation, saccade, and Unclassified by the software of Tobii Pro Lab. This image shows an example of gaze distribution:
+![image](https://github.com/yuli1102/eye_tracker_data/assets/44143351/605e2c21-e020-4ce6-9774-8f9c70746242)
 
 # spatial Distribution of Drivers’ Attention
 These are heat map of fixation count for negtive and positiive videos:
